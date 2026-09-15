@@ -18,3 +18,16 @@ A Python-based banking management system that allows users to:
 - Balance Tracking
 - Transaction Processing
 
+## Screenshots
+
+### Create Account
+![Create Account](screenshots/create_account.png)
+
+### Deposit
+![Deposit](screenshots/deposit.png)
+
+### Withdraw
+![Withdraw](screenshots/withdraw.png)
+
+### Balance Check
+![Balance](screenshots/balance.png)
