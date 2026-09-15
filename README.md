@@ -17,22 +17,7 @@ A Python-based banking management system that allows users to:
 - Deposit and Withdrawal
 - Balance Tracking
 - Transaction Processing
-- ## Screenshots
 
-### Create Account
-![Create Account](screenshots:create_account.png)
-
-### Deposit
-![Deposit](screenshots:deposit.png)
-
-### Withdraw
-![Withdraw](screenshots:withdraw.png)
-
-### Check Balance
-![Balance](screenshots:balance.png)
-![Create Account](screenshots:create_account.png)
-![Create Account](https://github.com/YalamarthiUmasree/Smart-Banking-System./blob/main/screenshots:create_account.png)
-## Screenshots
 
 ### Create Account
 ![Create Account](https://github.com/YalamarthiUmasree/Smart-Banking-System./blob/main/screenshots%3Acreate_account.png?raw=true)
