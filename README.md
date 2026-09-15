@@ -30,3 +30,5 @@ A Python-based banking management system that allows users to:
 
 ### Check Balance
 ![Balance](screenshots:balance.png)
+![Create Account](screenshots:create_account.png)
+![Create Account](https://github.com/YalamarthiUmasree/Smart-Banking-System./blob/main/screenshots:create_account.png)
